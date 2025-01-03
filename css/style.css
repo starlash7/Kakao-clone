@@ -4,9 +4,12 @@
 @import "screens/login.css";
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
+@import "screens/friends.css";
+@import "components/user-components.css";
 
 body {
   font-family: "Open Sans", sans-serif;
+  color: #2e363e;
 }
 
 .welcome-header {
